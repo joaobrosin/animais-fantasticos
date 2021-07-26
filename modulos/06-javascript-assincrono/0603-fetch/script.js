@@ -1,0 +1,1 @@
+console.log('aula 0603 Fetch');
