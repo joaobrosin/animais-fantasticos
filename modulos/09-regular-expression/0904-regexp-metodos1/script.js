@@ -1,0 +1,1 @@
+console.log('regexp métodos 1')
