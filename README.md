@@ -33,4 +33,22 @@ The project was developed with the following technologies:
 
 ---
 
+## 📂 Installation
+
+- Install eslint globally: 
+
+```bash
+$ npm install eslint -g
+```
+
+- Make sure you have npm installed 
+
+- then run npm:
+
+```bash
+$ npm init
+```
+
+---
+
 Made with 💙 by ***João Brosin***.
