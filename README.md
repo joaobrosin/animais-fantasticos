@@ -35,20 +35,33 @@ The project was developed with the following technologies:
 
 ## 📂 Installation
 
+- Make sure you have npm installed 
+
 - Install eslint globally: 
 
 ```bash
 $ npm install eslint -g
 ```
 
-- Make sure you have npm installed 
-
-- then run npm:
+- then install dependencies:
 
 ```bash
-$ npm init
+$ npm install
 ```
 
+## 👷‍♂️ Build instructions
+
+- For development mode run:
+
+```bash
+$ npm run dev
+```
+
+- For production mode run:
+
+```bash
+$ npm run build
+```
 ---
 
 Made with 💙 by ***João Brosin***.
